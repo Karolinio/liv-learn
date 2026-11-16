@@ -1,0 +1,107 @@
+{
+  "track": "begriffe",
+  "thema": "Blattfall",
+  "karten": [
+    {
+      "id": "begriffe-sk-bf-dauer",
+      "track": "begriffe",
+      "thema": "Blattfall",
+      "stufe": 1,
+      "frage": "Wie lange leben Blätter?",
+      "antwort": "Nur begrenzt: Blätter haben eine begrenzte Lebensdauer.",
+      "quelle": "Skript Morphologie, S. 71"
+    },
+    {
+      "id": "begriffe-sk-bf-warum",
+      "track": "begriffe",
+      "thema": "Blattfall",
+      "stufe": 2,
+      "frage": "Warum werden Blätter abgeworfen?",
+      "antwort": "Zur Abtrennung gealterter Blätter, als Anpassung an die Klimarhythmik und zur Abgabe von Abfallstoffen.",
+      "quelle": "Skript Morphologie, S. 71"
+    },
+    {
+      "id": "begriffe-sk-bf-hormone",
+      "track": "begriffe",
+      "thema": "Blattfall",
+      "stufe": 1,
+      "frage": "Was steuert den Blattfall?",
+      "antwort": "Phytohormone.",
+      "quelle": "Skript Morphologie, S. 71"
+    },
+    {
+      "id": "begriffe-sk-bf-naehrstoffe",
+      "track": "begriffe",
+      "thema": "Blattfall",
+      "stufe": 2,
+      "frage": "Was passiert vor dem Blattfall mit knappen Nährstoffen wie Stickstoff?",
+      "antwort": "Sie werden zurückgeführt (Rückführung knapper Nährstoffe).",
+      "quelle": "Skript Morphologie, S. 71"
+    },
+    {
+      "id": "begriffe-sk-bf-herbstfarbe",
+      "track": "begriffe",
+      "thema": "Blattfall",
+      "stufe": 2,
+      "frage": "Warum färben sich Blätter im Herbst gelb, orange oder rot?",
+      "antwort": "Chlorophyll wird abgebaut, die Carotinoide bleiben zurück. Das dominierende Grün ist weg.",
+      "quelle": "Skript Morphologie, S. 71"
+    },
+    {
+      "id": "begriffe-sk-bf-trenngewebe",
+      "track": "begriffe",
+      "thema": "Blattfall",
+      "stufe": 2,
+      "frage": "Was bildet sich beim Blattfall zwischen Blatt und Spross?",
+      "antwort": "Ein Trenngewebe (Trennschicht).",
+      "quelle": "Skript Morphologie, S. 71",
+      "abbildung": "blattfall"
+    },
+    {
+      "id": "begriffe-sk-bf-mittellamelle",
+      "track": "begriffe",
+      "thema": "Blattfall",
+      "stufe": 2,
+      "frage": "Wie wird das Blatt vom Spross abgetrennt?",
+      "antwort": "Durch Auflösung der Mittellamellen im Trenngewebe.",
+      "quelle": "Skript Morphologie, S. 71"
+    },
+    {
+      "id": "begriffe-sk-bf-verkorkt",
+      "track": "begriffe",
+      "thema": "Blattfall",
+      "stufe": 3,
+      "frage": "Was geschieht mit der Trennschicht nach dem Abtrennen?",
+      "antwort": "Sie verkorkt. Zusätzlich werden Siebplatten durch Callose verschlossen und Tracheen durch Thyllen verstopft.",
+      "quelle": "Skript Morphologie, S. 71"
+    },
+    {
+      "id": "begriffe-sk-bf-callose",
+      "track": "begriffe",
+      "thema": "Blattfall",
+      "stufe": 3,
+      "frage": "Womit werden die Siebplatten beim Blattfall verschlossen?",
+      "antwort": "Mit Callose (β1→3-Glucan).",
+      "quelle": "Skript Morphologie, S. 71"
+    },
+    {
+      "id": "begriffe-sk-bf-thyllen",
+      "track": "begriffe",
+      "thema": "Blattfall",
+      "stufe": 3,
+      "frage": "Wodurch werden die Tracheen beim Blattfall verstopft?",
+      "antwort": "Durch Thyllen.",
+      "quelle": "Skript Morphologie, S. 71"
+    },
+    {
+      "id": "begriffe-sk-bf-abb",
+      "track": "begriffe",
+      "thema": "Blattfall",
+      "stufe": 3,
+      "frage": "Welche zwei Schichten sind in der Abbildung zum Blattfall beschriftet?",
+      "antwort": "Trennschicht und Schutzschicht (die Zellen verkorken).",
+      "quelle": "Skript Morphologie, S. 71",
+      "abbildung": "blattfall"
+    }
+  ]
+}

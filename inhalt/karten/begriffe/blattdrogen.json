@@ -1,0 +1,96 @@
+{
+  "track": "begriffe",
+  "thema": "Blattdrogen",
+  "karten": [
+    {
+      "id": "begriffe-sk-dr-folium",
+      "track": "begriffe",
+      "thema": "Blattdrogen",
+      "stufe": 2,
+      "frage": "Was sind Folium-Drogen?",
+      "antwort": "Blatt-Drogen: in der Regel Laubblätter (Folgeblätter), bei denen die Blattspreite den größten Anteil ausmacht.",
+      "quelle": "Skript Morphologie, S. 71"
+    },
+    {
+      "id": "begriffe-sk-dr-folium-bsp",
+      "track": "begriffe",
+      "thema": "Blattdrogen",
+      "stufe": 2,
+      "frage": "Nenne Beispiele für Folium-Drogen.",
+      "antwort": "Menthae piperitae folium (Pfefferminzblätter) und Digitalis purpureae folium (Fingerhutblätter).",
+      "quelle": "Skript Morphologie, S. 71"
+    },
+    {
+      "id": "begriffe-sk-dr-bulbus",
+      "track": "begriffe",
+      "thema": "Blattdrogen",
+      "stufe": 2,
+      "frage": "Was sind Bulbus-Drogen?",
+      "antwort": "Zwiebel-Drogen: gestauchte Sprossachse (Zwiebelboden) plus Niederblätter (Zwiebelschuppen).",
+      "quelle": "Skript Morphologie, S. 71"
+    },
+    {
+      "id": "begriffe-sk-dr-bulbus-bsp",
+      "track": "begriffe",
+      "thema": "Blattdrogen",
+      "stufe": 2,
+      "frage": "Nenne ein Beispiel für eine Bulbus-Droge.",
+      "antwort": "Scillae bulbus (Meerzwiebel).",
+      "quelle": "Skript Morphologie, S. 71"
+    },
+    {
+      "id": "begriffe-sk-dr-herba",
+      "track": "begriffe",
+      "thema": "Blattdrogen",
+      "stufe": 1,
+      "frage": "Was sind Herba-Drogen?",
+      "antwort": "Kraut-Drogen: alle oberirdischen Pflanzenteile.",
+      "quelle": "Skript Morphologie, S. 71"
+    },
+    {
+      "id": "begriffe-sk-dr-pfefferminz",
+      "track": "begriffe",
+      "thema": "Blattdrogen",
+      "stufe": 2,
+      "frage": "Zu welcher Drogengruppe gehört Menthae piperitae folium?",
+      "antwort": "Zu den Folium-Drogen (Blatt-Drogen).",
+      "quelle": "Skript Morphologie, S. 71"
+    },
+    {
+      "id": "begriffe-sk-dr-fingerhut",
+      "track": "begriffe",
+      "thema": "Blattdrogen",
+      "stufe": 2,
+      "frage": "Welche Pflanzendroge ist Digitalis purpureae folium?",
+      "antwort": "Fingerhutblätter (Folium-Droge).",
+      "quelle": "Skript Morphologie, S. 71"
+    },
+    {
+      "id": "begriffe-sk-dr-meerzwiebel",
+      "track": "begriffe",
+      "thema": "Blattdrogen",
+      "stufe": 2,
+      "frage": "Zu welcher Drogengruppe gehört Scillae bulbus (Meerzwiebel)?",
+      "antwort": "Zu den Bulbus-Drogen (Zwiebel-Drogen).",
+      "quelle": "Skript Morphologie, S. 71"
+    },
+    {
+      "id": "begriffe-sk-dr-uebersetzung",
+      "track": "begriffe",
+      "thema": "Blattdrogen",
+      "stufe": 1,
+      "frage": "Was bedeuten folium, bulbus und herba in Drogennamen?",
+      "antwort": "Folium: Blatt. Bulbus: Zwiebel. Herba: Kraut.",
+      "quelle": "Skript Morphologie, S. 71"
+    },
+    {
+      "id": "begriffe-sk-dr-zwiebelaufbau",
+      "track": "begriffe",
+      "thema": "Blattdrogen",
+      "stufe": 3,
+      "frage": "Aus welchen Teilen besteht eine Bulbus-Droge morphologisch?",
+      "antwort": "Aus der gestauchten Sprossachse (Zwiebelboden) und Niederblättern (Zwiebelschuppen).",
+      "quelle": "Skript Morphologie, S. 71"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "track": "begriffe",
+  "thema": "Blattquerschnitte",
+  "karten": [
+    {
+      "id": "begriffe-sk-quer-oben-unten",
+      "track": "begriffe",
+      "thema": "Blattquerschnitte",
+      "stufe": 2,
+      "frage": "Wie werden Ober- und Unterseite eines Blattes definiert?",
+      "antwort": "Durch die Lage des Xylems zur Oberseite und des Phloems zur Unterseite.",
+      "quelle": "Skript Morphologie, S. 66"
+    },
+    {
+      "id": "begriffe-sk-quer-abk",
+      "track": "begriffe",
+      "thema": "Blattquerschnitte",
+      "stufe": 2,
+      "frage": "Was bedeuten SP, PP, X und P in den Querschnitten?",
+      "antwort": "SP: Schwammparenchym, PP: Palisadenparenchym, X: Xylem, P: Phloem.",
+      "quelle": "Skript Morphologie, S. 66",
+      "abbildung": "blatttypen-querschnitt"
+    },
+    {
+      "id": "begriffe-sk-quer-bifacial",
+      "track": "begriffe",
+      "thema": "Blattquerschnitte",
+      "stufe": 1,
+      "frage": "Welches Beispiel nennt das Skript für ein bifaciales Flachblatt?",
+      "antwort": "Die Buche.",
+      "quelle": "Skript Morphologie, S. 66"
+    },
+    {
+      "id": "begriffe-sk-quer-invers",
+      "track": "begriffe",
+      "thema": "Blattquerschnitte",
+      "stufe": 2,
+      "frage": "Welches Beispiel nennt das Skript für ein invers bifaciales Blatt?",
+      "antwort": "Den Bärlauch.",
+      "quelle": "Skript Morphologie, S. 66"
+    },
+    {
+      "id": "begriffe-sk-quer-aequi-flach",
+      "track": "begriffe",
+      "thema": "Blattquerschnitte",
+      "stufe": 2,
+      "frage": "Welches Beispiel nennt das Skript für ein äquifaciales Flachblatt?",
+      "antwort": "Eucalyptus: zwei Palisadenschichten mit Schwammparenchym dazwischen.",
+      "quelle": "Skript Morphologie, S. 66"
+    },
+    {
+      "id": "begriffe-sk-quer-uni-rund",
+      "track": "begriffe",
+      "thema": "Blattquerschnitte",
+      "stufe": 2,
+      "frage": "Welches Beispiel nennt das Skript für ein unifaciales Rundblatt?",
+      "antwort": "Den Schnittlauch.",
+      "quelle": "Skript Morphologie, S. 66"
+    },
+    {
+      "id": "begriffe-sk-quer-uni-flach",
+      "track": "begriffe",
+      "thema": "Blattquerschnitte",
+      "stufe": 2,
+      "frage": "Welches Beispiel nennt das Skript für ein unifaciales Flachblatt?",
+      "antwort": "Die Iris.",
+      "quelle": "Skript Morphologie, S. 66"
+    },
+    {
+      "id": "begriffe-sk-quer-aequi-nadel",
+      "track": "begriffe",
+      "thema": "Blattquerschnitte",
+      "stufe": 1,
+      "frage": "Welches Beispiel nennt das Skript für ein äquifaciales Nadelblatt?",
+      "antwort": "Die Kiefer.",
+      "quelle": "Skript Morphologie, S. 66"
+    },
+    {
+      "id": "begriffe-sk-quer-aequi-rund",
+      "track": "begriffe",
+      "thema": "Blattquerschnitte",
+      "stufe": 2,
+      "frage": "Welches Beispiel nennt das Skript für ein äquifaciales Rundblatt?",
+      "antwort": "Den Mauerpfeffer (Sukkulentenblatt, im Zentrum Wasserspeicherparenchym).",
+      "quelle": "Skript Morphologie, S. 66"
+    }
+  ]
+}

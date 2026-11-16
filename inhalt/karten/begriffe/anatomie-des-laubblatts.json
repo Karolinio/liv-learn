@@ -1,0 +1,142 @@
+{
+  "track": "begriffe",
+  "thema": "Anatomie des Laubblatts",
+  "karten": [
+    {
+      "id": "begriffe-sk-ana-schichten",
+      "track": "begriffe",
+      "thema": "Anatomie des Laubblatts",
+      "stufe": 2,
+      "frage": "Aus welchen Schichten besteht ein bifaciales Laubblatt (von oben nach unten)?",
+      "antwort": "Obere Epidermis mit Cuticula, Palisadenparenchym, Schwammparenchym (Mesophyll, dazwischen die Leitbündel), untere Epidermis mit Cuticula.",
+      "quelle": "Skript Morphologie, S. 65–66",
+      "abbildung": "blattquerschnitt"
+    },
+    {
+      "id": "begriffe-sk-ana-leitbuendel",
+      "track": "begriffe",
+      "thema": "Anatomie des Laubblatts",
+      "stufe": 2,
+      "frage": "Wo liegen die Leitbündel im Blatt, und wie sind sie gebaut?",
+      "antwort": "In der Grenzschicht zwischen Palisaden- und Schwammparenchym; meist geschlossen kollateral mit Xylem oben und Phloem unten.",
+      "quelle": "Skript Morphologie, S. 65–66"
+    },
+    {
+      "id": "begriffe-sk-ana-scheide",
+      "track": "begriffe",
+      "thema": "Anatomie des Laubblatts",
+      "stufe": 3,
+      "frage": "Wie ist die Leitbündelscheide aufgebaut?",
+      "antwort": "Parenchymatisch oder sklerenchymatisch. In den Hauptadern sind die Leitbündel sklerenchymatisch verstärkt.",
+      "quelle": "Skript Morphologie, S. 65–66"
+    },
+    {
+      "id": "begriffe-sk-ana-cuticula",
+      "track": "begriffe",
+      "thema": "Anatomie des Laubblatts",
+      "stufe": 2,
+      "frage": "Welche Aufgaben hat die Cuticula?",
+      "antwort": "Mechanischer Schutz, Verdunstungsschutz, UV-Schutz und Schutz vor Pathogenen; dazu zusätzliche Wachsschichten.",
+      "quelle": "Skript Morphologie, S. 65–66"
+    },
+    {
+      "id": "begriffe-sk-ana-chloroplasten",
+      "track": "begriffe",
+      "thema": "Anatomie des Laubblatts",
+      "stufe": 3,
+      "frage": "Welche Zellen der Epidermis enthalten Chloroplasten?",
+      "antwort": "Epidermiszellen haben keine Chloroplasten (außer bei Farnen). Chloroplasten gibt es nur in den Schließzellen.",
+      "quelle": "Skript Morphologie, S. 65–66"
+    },
+    {
+      "id": "begriffe-sk-ana-pigmente",
+      "track": "begriffe",
+      "thema": "Anatomie des Laubblatts",
+      "stufe": 2,
+      "frage": "Wo liegen Pigmente in der Epidermis?",
+      "antwort": "In der Vakuole.",
+      "quelle": "Skript Morphologie, S. 65–66"
+    },
+    {
+      "id": "begriffe-sk-ana-stomata",
+      "track": "begriffe",
+      "thema": "Anatomie des Laubblatts",
+      "stufe": 3,
+      "frage": "Wo liegen die Spaltöffnungen bei epi-, hypo- und amphistomatischen Blättern?",
+      "antwort": "Epistomatisch: nur oben. Hypostomatisch: nur unten. Amphistomatisch: oben und unten. Unten sind es meistens mehr.",
+      "quelle": "Skript Morphologie, S. 65–66"
+    },
+    {
+      "id": "begriffe-sk-ana-palisaden",
+      "track": "begriffe",
+      "thema": "Anatomie des Laubblatts",
+      "stufe": 2,
+      "frage": "Wie ist das Palisadenparenchym aufgebaut?",
+      "antwort": "Langgestreckte Zellen, ein- oder zweischichtig, mit spaltförmigen Interzellularen zum Gasaustausch und vielen Chloroplasten (80 % des Blattes): Photosynthese.",
+      "quelle": "Skript Morphologie, S. 65–66"
+    },
+    {
+      "id": "begriffe-sk-ana-schwamm",
+      "track": "begriffe",
+      "thema": "Anatomie des Laubblatts",
+      "stufe": 2,
+      "frage": "Wie ist das Schwammparenchym aufgebaut?",
+      "antwort": "Oberste Schicht: Trichterzellen. „Verzweigte“ Zellen, mehrschichtig, weniger Chloroplasten (geringere Photosyntheseleistung), großlumige luftgefüllte Interzellularen für den Gasaustausch.",
+      "quelle": "Skript Morphologie, S. 65–66"
+    },
+    {
+      "id": "begriffe-sk-ana-trichterzellen",
+      "track": "begriffe",
+      "thema": "Anatomie des Laubblatts",
+      "stufe": 3,
+      "frage": "Wie heißt die oberste Schicht des Schwammparenchyms?",
+      "antwort": "Trichterzellen.",
+      "quelle": "Skript Morphologie, S. 65–66"
+    },
+    {
+      "id": "begriffe-sk-ana-atemhoehle",
+      "track": "begriffe",
+      "thema": "Anatomie des Laubblatts",
+      "stufe": 2,
+      "frage": "Was ist die Atemhöhle?",
+      "antwort": "Der substomatäre Hohlraum an der Spaltöffnung.",
+      "quelle": "Skript Morphologie, S. 65–66"
+    },
+    {
+      "id": "begriffe-sk-ana-stomata-ort",
+      "track": "begriffe",
+      "thema": "Anatomie des Laubblatts",
+      "stufe": 3,
+      "frage": "Wie sind Spaltöffnungen der unteren Epidermis angepasst?",
+      "antwort": "Bau und Lage der Spaltöffnungen sind ökophysiologisch angepasst. Zur Epidermis gehören außerdem Haare, Drüsen etc.",
+      "quelle": "Skript Morphologie, S. 65–66"
+    },
+    {
+      "id": "begriffe-sk-x-chloroplasten-gewebe",
+      "track": "begriffe",
+      "thema": "Anatomie des Laubblatts",
+      "stufe": 2,
+      "frage": "Welches Gewebe des Blattes enthält die meisten Chloroplasten?",
+      "antwort": "Das Palisadenparenchym (80 % des Blattes).",
+      "quelle": "Skript Morphologie, S. 65–66"
+    },
+    {
+      "id": "begriffe-sk-x-gasaustausch",
+      "track": "begriffe",
+      "thema": "Anatomie des Laubblatts",
+      "stufe": 3,
+      "frage": "Wo findet im Blatt der Gasaustausch statt?",
+      "antwort": "Über Spaltöffnungen und Atemhöhle, im Schwammparenchym über die großlumigen, luftgefüllten Interzellularen und im Palisadenparenchym über spaltförmige Interzellularen.",
+      "quelle": "Skript Morphologie, S. 65–66"
+    },
+    {
+      "id": "begriffe-sk-x-mesophyll",
+      "track": "begriffe",
+      "thema": "Anatomie des Laubblatts",
+      "stufe": 2,
+      "frage": "Welche Gewebe gehören zum Mesophyll?",
+      "antwort": "Palisaden- und Schwammparenchym (Gewebe zwischen oberer und unterer Epidermis).",
+      "quelle": "Skript Morphologie, S. 65–66"
+    }
+  ]
+}

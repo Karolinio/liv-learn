@@ -1,0 +1,107 @@
+{
+  "track": "begriffe",
+  "thema": "Blattentwicklung",
+  "karten": [
+    {
+      "id": "begriffe-sk-entw-zellen",
+      "track": "begriffe",
+      "thema": "Blattentwicklung",
+      "stufe": 3,
+      "frage": "Aus welchen Zellen entstehen Blätter bei Farnen und bei Samenpflanzen?",
+      "antwort": "Farne: zweischneidige Scheitelzelle. Samenpflanzen: Initialzellen im Sprossmeristem.",
+      "quelle": "Skript Morphologie, S. 63"
+    },
+    {
+      "id": "begriffe-sk-entw-anlage",
+      "track": "begriffe",
+      "thema": "Blattentwicklung",
+      "stufe": 3,
+      "frage": "Wo entstehen die Blattanlagen?",
+      "antwort": "Unterhalb des Sprossvegetationspunktes aus primär meristematischen Zellen der Tunicaschicht.",
+      "quelle": "Skript Morphologie, S. 63",
+      "abbildung": "blattentwicklung"
+    },
+    {
+      "id": "begriffe-sk-entw-wachstum",
+      "track": "begriffe",
+      "thema": "Blattentwicklung",
+      "stufe": 3,
+      "frage": "Wie wächst ein junges Blatt?",
+      "antwort": "Zuerst Spitzenwachstum, später Anlage eines basalen Meristems und von Randmeristemen.",
+      "quelle": "Skript Morphologie, S. 63"
+    },
+    {
+      "id": "begriffe-sk-entw-differenz",
+      "track": "begriffe",
+      "thema": "Blattentwicklung",
+      "stufe": 2,
+      "frage": "Wie differenziert sich die Blattanlage in Unterblatt und Oberblatt?",
+      "antwort": "Unterblatt: Blattgrund und Nebenblätter. Oberblatt: Blattstiel und Blattspreite.",
+      "quelle": "Skript Morphologie, S. 63"
+    },
+    {
+      "id": "begriffe-sk-entw-form",
+      "track": "begriffe",
+      "thema": "Blattentwicklung",
+      "stufe": 3,
+      "frage": "Was verursacht unterschiedliche Blattformen?",
+      "antwort": "Unterschiedliche Zellteilungsaktivitäten in den Randmeristemen.",
+      "quelle": "Skript Morphologie, S. 63"
+    },
+    {
+      "id": "begriffe-sk-entw-meristeme",
+      "track": "begriffe",
+      "thema": "Blattentwicklung",
+      "stufe": 3,
+      "frage": "Welche Aufgaben haben Randmeristem und basales Meristem?",
+      "antwort": "Randmeristeme sorgen für die Blattform. Das basale Meristem beeinflusst die Blattstiellänge.",
+      "quelle": "Skript Morphologie, S. 63",
+      "abbildung": "blattentwicklung"
+    },
+    {
+      "id": "begriffe-sk-entw-leitbuendel",
+      "track": "begriffe",
+      "thema": "Blattentwicklung",
+      "stufe": 3,
+      "frage": "Wie werden die Leitbündel des Blattes gebildet?",
+      "antwort": "Endogen vom Spross aus (Blattspurstränge) und exogen vom wachsenden Blatt aus. Sie heißen Blattadern oder Blattnerven.",
+      "quelle": "Skript Morphologie, S. 63"
+    },
+    {
+      "id": "begriffe-sk-x-tunica",
+      "track": "begriffe",
+      "thema": "Blattentwicklung",
+      "stufe": 3,
+      "frage": "Aus welcher Zellschicht entstehen die Blattanlagen?",
+      "antwort": "Aus primär meristematischen Zellen der Tunicaschicht unterhalb des Sprossvegetationspunktes.",
+      "quelle": "Skript Morphologie, S. 63"
+    },
+    {
+      "id": "begriffe-sk-x-unterblatt",
+      "track": "begriffe",
+      "thema": "Blattentwicklung",
+      "stufe": 2,
+      "frage": "Aus welchem Teil der Blattanlage entstehen Blattgrund und Nebenblätter?",
+      "antwort": "Aus dem Unterblatt.",
+      "quelle": "Skript Morphologie, S. 63"
+    },
+    {
+      "id": "begriffe-sk-x-oberblatt",
+      "track": "begriffe",
+      "thema": "Blattentwicklung",
+      "stufe": 2,
+      "frage": "Aus welchem Teil der Blattanlage entstehen Blattstiel und Blattspreite?",
+      "antwort": "Aus dem Oberblatt.",
+      "quelle": "Skript Morphologie, S. 63"
+    },
+    {
+      "id": "begriffe-sk-x-farn",
+      "track": "begriffe",
+      "thema": "Blattentwicklung",
+      "stufe": 3,
+      "frage": "Wie wachsen Blätter bei Farnen?",
+      "antwort": "Aus einer zweischneidigen Scheitelzelle.",
+      "quelle": "Skript Morphologie, S. 63"
+    }
+  ]
+}

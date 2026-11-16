@@ -1,0 +1,51 @@
+{
+  "track": "begriffe",
+  "thema": "Blüte – Grundlagen",
+  "karten": [
+    {
+      "id": "begriffe-sk-bl-kurzspross",
+      "track": "begriffe",
+      "thema": "Blüte – Grundlagen",
+      "stufe": 2,
+      "frage": "Was ist eine Blüte morphologisch?",
+      "antwort": "Ein Kurzspross mit begrenztem Wachstum aus spezialisierten Blättern zur geschlechtlichen Fortpflanzung.",
+      "quelle": "Skript Morphologie, S. 72"
+    },
+    {
+      "id": "begriffe-sk-bl-wachstum",
+      "track": "begriffe",
+      "thema": "Blüte – Grundlagen",
+      "stufe": 2,
+      "frage": "Was passiert bei der Blütenbildung mit dem Wachstum der Sprossachse?",
+      "antwort": "Es endet (Notiz im Skript).",
+      "quelle": "Skript Morphologie, S. 72"
+    },
+    {
+      "id": "begriffe-sk-bl-perianth",
+      "track": "begriffe",
+      "thema": "Blüte – Grundlagen",
+      "stufe": 1,
+      "frage": "Woraus besteht die Blütenhülle (Perianth)?",
+      "antwort": "In der Regel aus zwei Blattkreisen: Kelch (Calyx) und Krone (Corolla).",
+      "quelle": "Skript Morphologie, S. 72"
+    },
+    {
+      "id": "begriffe-sk-bl-calyx",
+      "track": "begriffe",
+      "thema": "Blüte – Grundlagen",
+      "stufe": 1,
+      "frage": "Wie heißt der Kelch lateinisch?",
+      "antwort": "Calyx.",
+      "quelle": "Skript Morphologie, S. 72"
+    },
+    {
+      "id": "begriffe-sk-bl-corolla",
+      "track": "begriffe",
+      "thema": "Blüte – Grundlagen",
+      "stufe": 1,
+      "frage": "Wie heißt die Krone lateinisch?",
+      "antwort": "Corolla.",
+      "quelle": "Skript Morphologie, S. 72"
+    }
+  ]
+}

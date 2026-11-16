@@ -1,0 +1,257 @@
+{
+  "track": "begriffe",
+  "thema": "Blatttypen",
+  "karten": [
+    {
+      "id": "begriffe-sk-blattaufgaben",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 1,
+      "frage": "Welche Aufgaben haben Blätter?",
+      "antwort": "Meist flächige Organe: Photosynthese (große Fläche zum Einfangen des Lichts, grüne Blätter) sowie Transpiration (Abgabe von Wasserdampf) und Stofftransport.",
+      "quelle": "Skript Morphologie, S. 59–61"
+    },
+    {
+      "id": "begriffe-sk-blattsitz",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 1,
+      "frage": "Wo sitzen Blätter an der Pflanze?",
+      "antwort": "Nur am Spross, nie an der Wurzel.",
+      "quelle": "Skript Morphologie, S. 59–61"
+    },
+    {
+      "id": "begriffe-sk-erste-blaetter",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 1,
+      "frage": "Was sind die ersten Blätter einer Pflanze?",
+      "antwort": "Die Keimblätter (Kotyledonen). Sie sind bereits in der Keimpflanze im Samen angelegt.",
+      "quelle": "Skript Morphologie, S. 59–61"
+    },
+    {
+      "id": "begriffe-sk-keimblattzahl",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 2,
+      "frage": "Wie viele Keimblätter haben Gymnospermen, Dikotyle und Monokotyle?",
+      "antwort": "Gymnospermen: mehrere. Dikotyle Samenpflanzen: zwei. Monokotyle Samenpflanzen: ein Keimblatt plus eine Koleoptile (Blattscheide).",
+      "quelle": "Skript Morphologie, S. 59–61"
+    },
+    {
+      "id": "begriffe-sk-epigaeisch",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 2,
+      "frage": "Welche Rolle haben Keimblätter bei epigäischer Keimung?",
+      "antwort": "Sie sind schon beim Embryo angelegt und die ersten Photosyntheseorgane: eins bei Monokotylen, zwei bei Dikotylen.",
+      "quelle": "Skript Morphologie, S. 59–61"
+    },
+    {
+      "id": "begriffe-sk-verschleiss",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 2,
+      "frage": "Warum sind Blätter „Verschleißorgane“?",
+      "antwort": "Sie werden nicht regeneriert, sondern neu gebildet. Das ist für die Pflanze günstiger.",
+      "quelle": "Skript Morphologie, S. 59–61"
+    },
+    {
+      "id": "begriffe-sk-blatttypen",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 2,
+      "frage": "Welche Blatt-Typen können an einer Pflanze auftreten (von unten nach oben)?",
+      "antwort": "Keimblätter, Niederblätter, Laubblätter, Hochblätter und Blütenblätter (zur Blüte gehörende Blätter).",
+      "quelle": "Skript Morphologie, S. 59–61",
+      "abbildung": "blatttypen"
+    },
+    {
+      "id": "begriffe-sk-primaerblaetter",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 2,
+      "frage": "Was sind Primärblätter und Folgeblätter?",
+      "antwort": "Primärblätter sind die ersten Laubblätter und manchmal anders gestaltet. Die späteren Laubblätter sind die Folgeblätter.",
+      "quelle": "Skript Morphologie, S. 59–61"
+    },
+    {
+      "id": "begriffe-sk-hochblaetter-bsp",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 1,
+      "frage": "Nenne ein Beispiel für Hochblätter.",
+      "antwort": "Schaublätter im Blütenbereich.",
+      "quelle": "Skript Morphologie, S. 59–61"
+    },
+    {
+      "id": "begriffe-sk-bluetenblaetter",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 2,
+      "frage": "Welche Blätter gehören zur Blüte?",
+      "antwort": "Kelch-, Kron-, Staub- und Fruchtblätter: spezialisierte Blätter zum Zweck der sexuellen Reproduktion.",
+      "quelle": "Skript Morphologie, S. 59–61"
+    },
+    {
+      "id": "begriffe-sk-aniso-vs-hetero",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 2,
+      "frage": "Wodurch unterscheiden sich Anisophyllie und Heterophyllie?",
+      "antwort": "Anisophyllie: Laubblätter (Folgeblätter) unterschiedlicher Größe an nahe beieinander liegenden Nodien. Heterophyllie: Laubblätter (Folgeblätter) unterschiedlicher Form.",
+      "quelle": "Skript Morphologie, S. 59–61"
+    },
+    {
+      "id": "begriffe-sk-aniso-bsp",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 3,
+      "frage": "Welche Pflanze zeigt das Skript als Beispiel für Anisophyllie (Laubblätter unterschiedlicher Größe)?",
+      "antwort": "Die Tollkirsche (Atropa belladonna).",
+      "quelle": "Skript Morphologie, S. 59–61",
+      "abbildung": "anisophyllie",
+      "abbildungVorne": true
+    },
+    {
+      "id": "begriffe-sk-hetero-bsp",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 2,
+      "frage": "Welches Beispiel nennt das Skript für Heterophyllie?",
+      "antwort": "Jugend- und Altersblätter bei Efeu oder Eukalyptus.",
+      "quelle": "Skript Morphologie, S. 59–61",
+      "abbildung": "heterophyllie",
+      "abbildungVorne": true
+    },
+    {
+      "id": "begriffe-sk-blattaufbau-teile",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 2,
+      "frage": "Aus welchen Teilen besteht ein Blatt?",
+      "antwort": "Blattgrund, Nebenblätter (Stipeln), Blattstiel (Petiolus) und Blattspreite (Lamina).",
+      "quelle": "Skript Morphologie, S. 59–61"
+    },
+    {
+      "id": "begriffe-sk-aufbau-ober-unter",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 2,
+      "frage": "Welche Teile gehören zum Unterblatt, welche zum Oberblatt?",
+      "antwort": "Unterblatt: Blattgrund und Nebenblätter. Oberblatt: Blattstiel (Petiolus) und Blattspreite (Lamina).",
+      "quelle": "Skript Morphologie, S. 59–61",
+      "abbildung": "blattaufbau"
+    },
+    {
+      "id": "begriffe-sk-aufbau-ochrea",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 3,
+      "frage": "Wie heißen tütenförmige, den Blattgrund umschließende Nebenblätter, und bei welcher Familie kommen sie vor?",
+      "antwort": "Ochrea, z. B. bei den Polygonaceae.",
+      "quelle": "Skript Morphologie, S. 59–61"
+    },
+    {
+      "id": "begriffe-sk-aufbau-nervatur",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 2,
+      "frage": "Was stellt die Nervatur eines Blattes dar?",
+      "antwort": "Ein System von Leitbündeln, das mit der Sprossachse in Verbindung steht.",
+      "quelle": "Skript Morphologie, S. 59–61"
+    },
+    {
+      "id": "begriffe-sk-aufbau-blattgrund",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 1,
+      "frage": "Wo sitzt der Blattgrund?",
+      "antwort": "Fest am Nodium (Knoten) der Sprossachse.",
+      "quelle": "Skript Morphologie, S. 59–61"
+    },
+    {
+      "id": "begriffe-sk-x-unten",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 1,
+      "frage": "Welcher Blatt-Typ sitzt am Spross ganz unten?",
+      "antwort": "Die Keimblätter (darüber Niederblätter, Laubblätter, Hochblätter, Blütenblätter).",
+      "quelle": "Skript Morphologie, S. 59–61",
+      "abbildung": "blatttypen"
+    },
+    {
+      "id": "begriffe-sk-x-mitte",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 1,
+      "frage": "Welcher Blatt-Typ sitzt zwischen den Niederblättern und den Hochblättern?",
+      "antwort": "Die Laubblätter.",
+      "quelle": "Skript Morphologie, S. 59–61",
+      "abbildung": "blatttypen"
+    },
+    {
+      "id": "begriffe-sk-x-schuppen",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 1,
+      "frage": "Welche Blätter sind meist unauffällig und schuppenförmig?",
+      "antwort": "Die Niederblätter.",
+      "quelle": "Skript Morphologie, S. 59–61"
+    },
+    {
+      "id": "begriffe-sk-x-koleoptile",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 2,
+      "frage": "Was ist die Koleoptile?",
+      "antwort": "Bei Monokotylen eine Blattscheide neben dem einen Keimblatt.",
+      "quelle": "Skript Morphologie, S. 59–61"
+    },
+    {
+      "id": "begriffe-sk-x-dikotyl",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 1,
+      "frage": "Wie heißen Samenpflanzen mit zwei Keimblättern?",
+      "antwort": "Dikotyle.",
+      "quelle": "Skript Morphologie, S. 59–61"
+    },
+    {
+      "id": "begriffe-sk-x-monokotyl",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 1,
+      "frage": "Wie heißen Samenpflanzen mit einem Keimblatt?",
+      "antwort": "Monokotyle.",
+      "quelle": "Skript Morphologie, S. 59–61"
+    },
+    {
+      "id": "begriffe-sk-x-gymno",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 1,
+      "frage": "Wie viele Keimblätter haben Gymnospermen?",
+      "antwort": "Mehrere.",
+      "quelle": "Skript Morphologie, S. 59–61"
+    },
+    {
+      "id": "begriffe-sk-x-primaer",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 2,
+      "frage": "Wie heißen die ersten Laubblätter, die manchmal anders gestaltet sind?",
+      "antwort": "Primärblätter.",
+      "quelle": "Skript Morphologie, S. 59–61"
+    },
+    {
+      "id": "begriffe-sk-x-folge",
+      "track": "begriffe",
+      "thema": "Blatttypen",
+      "stufe": 1,
+      "frage": "Wie heißen die späteren Laubblätter nach den Primärblättern?",
+      "antwort": "Folgeblätter.",
+      "quelle": "Skript Morphologie, S. 59–61"
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "track": "begriffe",
+  "thema": "Standortanpassungen",
+  "karten": [
+    {
+      "id": "begriffe-sk-st-uebersicht",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 2,
+      "frage": "Welche Standorttypen unterscheidet das Skript nach der Wasserversorgung?",
+      "antwort": "Hydrophyten, Hygrophyten, Mesophyten, Xerophyten, Sukkulenten und Halophyten.",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-hydro",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 1,
+      "frage": "Was sind Hydrophyten?",
+      "antwort": "Pflanzen, die in oder auf dem Wasser leben.",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-hydro-merkmale",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 3,
+      "frage": "Welche Merkmale haben Hydrophyten?",
+      "antwort": "Dünne Epidermiswände, fehlende oder zarte Cuticula (Gasaustausch mit Wasser), keine Wasserleit- und Festigungselemente nötig, keine Spaltöffnungen oder nur an der Blattoberfläche, Aerenchyme.",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-hydro-stomata",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 3,
+      "frage": "Warum haben Hydrophyten keine oder kaum Spaltöffnungen?",
+      "antwort": "Spaltöffnungen machen nur Sinn, wenn es eine Gasfläche gibt (Gasaustausch). Im Wasser fehlt sie (Notiz im Skript).",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-aerenchym",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 2,
+      "frage": "Was sind Aerenchyme, und bei welchem Standorttyp kommen sie vor?",
+      "antwort": "Durchlüftungsgewebe, ausgebildet bei Hydrophyten.",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-hygro",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 1,
+      "frage": "Was sind Hygrophyten?",
+      "antwort": "Pflanzen an feuchten Standorten.",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-hygro-merkmale",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 3,
+      "frage": "Welche Merkmale haben Hygrophyten?",
+      "antwort": "Schwach ausgeprägtes Wurzel- und Wasserleitsystem. Sie fördern die Transpiration: dünne Cuticula, große Blattoberfläche, vorgewölbte Spaltöffnungen, Hydathoden.",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-xero",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 1,
+      "frage": "Was sind Xerophyten?",
+      "antwort": "Pflanzen an trockenen Standorten.",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-xero-merkmale",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 3,
+      "frage": "Welche Merkmale haben Xerophyten?",
+      "antwort": "Verminderung der Transpiration: dicke Cuticula, kleine Blattoberfläche, eingesenkte Spaltöffnungen, Behaarung der Blätter, starke Festigungselemente. Dazu ein ausgedehntes Wurzelsystem.",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-hygro-xero",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 2,
+      "frage": "Wie unterscheiden sich Hygro- und Xerophyten bei der Transpiration?",
+      "antwort": "Hygrophyten fördern die Transpiration, Xerophyten vermindern sie.",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-sukk",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 1,
+      "frage": "Was sind Sukkulenten?",
+      "antwort": "Pflanzen mit Wasserspeichergeweben.",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-sukk-formen",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 2,
+      "frage": "Welche Formen der Sukkulenz gibt es?",
+      "antwort": "Blatt-, Stamm- und Wurzelsukkulenz (Wasserspeicherung).",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-halo",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 1,
+      "frage": "Was sind Halophyten?",
+      "antwort": "Pflanzen mit Anpassung an hohe Salzkonzentrationen.",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-halo-merkmale",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 3,
+      "frage": "Welche Anpassungen haben Halophyten?",
+      "antwort": "Salzspeicherung in großen Vakuolen, Salzdrüsen und eine hohe Saugkraft der Wurzeln.",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-meso",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 1,
+      "frage": "Was sind Mesophyten?",
+      "antwort": "Bewohner mittelfeuchter Standorte (Notiz im Skript).",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-bsp-0",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 3,
+      "frage": "Zu welchem Standorttyp gehört Wasserpest (Elodea canadensis)?",
+      "antwort": "Zu den Hydrophyten (pflanzen, die in oder auf dem Wasser leben).",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-bsp-1",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 3,
+      "frage": "Zu welchem Standorttyp gehört Wasserhahnenfuß (Ranunculus aquatilis)?",
+      "antwort": "Zu den Hydrophyten (pflanzen, die in oder auf dem Wasser leben).",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-bsp-2",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 3,
+      "frage": "Zu welchem Standorttyp gehört Seerose (Nymphaea spec.)?",
+      "antwort": "Zu den Hydrophyten (pflanzen, die in oder auf dem Wasser leben).",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-bsp-3",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 3,
+      "frage": "Zu welchem Standorttyp gehört Sumpfdotterblume (Caltha palustris)?",
+      "antwort": "Zu den Hygrophyten (pflanzen an feuchten Standorten).",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-bsp-4",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 3,
+      "frage": "Zu welchem Standorttyp gehört Schwarzerle (Alnus glutinosa)?",
+      "antwort": "Zu den Hygrophyten (pflanzen an feuchten Standorten).",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-bsp-5",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 3,
+      "frage": "Zu welchem Standorttyp gehört Oleander (Nerium oleander)?",
+      "antwort": "Zu den Xerophyten (pflanzen an trockenen Standorten).",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-bsp-6",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 3,
+      "frage": "Zu welchem Standorttyp gehört Bärentraube (Arctostaphylos uva-ursi)?",
+      "antwort": "Zu den Xerophyten (pflanzen an trockenen Standorten).",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-bsp-7",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 3,
+      "frage": "Zu welchem Standorttyp gehört Mauerpfeffer (Sedum spec.)?",
+      "antwort": "Zu den Sukkulenten (pflanzen mit Wasserspeichergeweben).",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-bsp-8",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 3,
+      "frage": "Zu welchem Standorttyp gehört Aloe (Aloe vera)?",
+      "antwort": "Zu den Sukkulenten (pflanzen mit Wasserspeichergeweben).",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-bsp-9",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 3,
+      "frage": "Zu welchem Standorttyp gehört Kaktusgewächse (Cactaceae)?",
+      "antwort": "Zu den Sukkulenten (pflanzen mit Wasserspeichergeweben).",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-bsp-10",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 3,
+      "frage": "Zu welchem Standorttyp gehört Europäischer Queller (Salicornia europaea)?",
+      "antwort": "Zu den Halophyten (anpassung an hohe Salzkonzentrationen).",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-bsp-11",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 3,
+      "frage": "Zu welchem Standorttyp gehört Salzmelde (Suaeda spec.)?",
+      "antwort": "Zu den Halophyten (anpassung an hohe Salzkonzentrationen).",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-bsp-12",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 3,
+      "frage": "Zu welchem Standorttyp gehört Strandflieder (Limonium spec.)?",
+      "antwort": "Zu den Halophyten (anpassung an hohe Salzkonzentrationen).",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-liste-hydrophyten",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 2,
+      "frage": "Nenne Beispiele für Hydrophyten.",
+      "antwort": "Wasserpest (Elodea canadensis), Wasserhahnenfuß (Ranunculus aquatilis), Seerose (Nymphaea spec.).",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-liste-hygrophyten",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 2,
+      "frage": "Nenne Beispiele für Hygrophyten.",
+      "antwort": "Sumpfdotterblume (Caltha palustris), Schwarzerle (Alnus glutinosa).",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-liste-xerophyten",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 2,
+      "frage": "Nenne Beispiele für Xerophyten.",
+      "antwort": "Oleander (Nerium oleander), Bärentraube (Arctostaphylos uva-ursi).",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-liste-sukkulenten",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 2,
+      "frage": "Nenne Beispiele für Sukkulenten.",
+      "antwort": "Mauerpfeffer (Sedum spec.), Aloe (Aloe vera), Kaktusgewächse (Cactaceae).",
+      "quelle": "Skript Morphologie, S. 70"
+    },
+    {
+      "id": "begriffe-sk-st-liste-halophyten",
+      "track": "begriffe",
+      "thema": "Standortanpassungen",
+      "stufe": 2,
+      "frage": "Nenne Beispiele für Halophyten.",
+      "antwort": "Europäischer Queller (Salicornia europaea), Salzmelde (Suaeda spec.), Strandflieder (Limonium spec.).",
+      "quelle": "Skript Morphologie, S. 70"
+    }
+  ]
+}

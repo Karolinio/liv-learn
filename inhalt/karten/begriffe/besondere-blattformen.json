@@ -1,0 +1,99 @@
+{
+  "track": "begriffe",
+  "thema": "Besondere Blattformen",
+  "karten": [
+    {
+      "id": "begriffe-sk-bes-xeromorph",
+      "track": "begriffe",
+      "thema": "Besondere Blattformen",
+      "stufe": 2,
+      "frage": "Was bedeutet „xeromorpher Bau“ beim Nadelblatt der Kiefer (Pinus silvestris)?",
+      "antwort": "Anpassung an trockene Standorte (Xerophyten). Im Skript steht dazu die Notiz Frosttrocknis.",
+      "quelle": "Skript Morphologie, S. 67–68"
+    },
+    {
+      "id": "begriffe-sk-bes-merkmale",
+      "track": "begriffe",
+      "thema": "Besondere Blattformen",
+      "stufe": 3,
+      "frage": "Welche Trockenanpassungen hat das Kiefernnadelblatt?",
+      "antwort": "Verringerte Oberfläche, eingesenkte Spaltöffnungen, verstärkte Epidermisaußenwände und Cuticula, starkes Sklerenchym (Festigkeit), zwei zentrale Leitbündel in einem Transfusionsgewebe.",
+      "quelle": "Skript Morphologie, S. 67–68",
+      "abbildung": "kiefer-uebersicht"
+    },
+    {
+      "id": "begriffe-sk-bes-strukturen",
+      "track": "begriffe",
+      "thema": "Besondere Blattformen",
+      "stufe": 3,
+      "frage": "Welche Strukturen sind im Kiefernnadel-Querschnitt beschriftet?",
+      "antwort": "Epidermis (verdickt), Hypodermis, Armpalisaden, Harzkanal, Sklerenchym, Endodermis, Transfusionsgewebe, Sekretzellen und Spaltöffnung.",
+      "quelle": "Skript Morphologie, S. 67–68",
+      "abbildung": "kiefer-detail"
+    },
+    {
+      "id": "begriffe-sk-bes-endodermis",
+      "track": "begriffe",
+      "thema": "Besondere Blattformen",
+      "stufe": 3,
+      "frage": "Was umschließt die Endodermis im Kiefernnadelblatt?",
+      "antwort": "Die Leitbündel (Notiz im Skript).",
+      "quelle": "Skript Morphologie, S. 67–68"
+    },
+    {
+      "id": "begriffe-sk-bes-eingesenkt",
+      "track": "begriffe",
+      "thema": "Besondere Blattformen",
+      "stufe": 2,
+      "frage": "Warum sind die Spaltöffnungen der Kiefernnadel eingesenkt?",
+      "antwort": "So fällt es schwerer, Wasser an die Luft abzugeben (Notiz im Skript).",
+      "quelle": "Skript Morphologie, S. 67–68"
+    },
+    {
+      "id": "begriffe-sk-bes-kranz",
+      "track": "begriffe",
+      "thema": "Besondere Blattformen",
+      "stufe": 2,
+      "frage": "Was ist ein Blatt mit Kranztyp, und welches Beispiel nennt das Skript?",
+      "antwort": "Blatt einer Pflanze mit C4-Photosynthese, z. B. Mais (Poaceae, Amaranthaceae).",
+      "quelle": "Skript Morphologie, S. 67–68"
+    },
+    {
+      "id": "begriffe-sk-bes-c4",
+      "track": "begriffe",
+      "thema": "Besondere Blattformen",
+      "stufe": 3,
+      "frage": "Wie läuft die CO2-Fixierung bei C4-Pflanzen ab?",
+      "antwort": "CO2-Vorfixierung durch Phosphoenolpyruvat-Carboxylase in den Mesophyllzellen; Einbau von CO2 in Kohlenhydrate in den Bündelscheidenzellen.",
+      "quelle": "Skript Morphologie, S. 67–68",
+      "abbildung": "kranztyp"
+    },
+    {
+      "id": "begriffe-sk-bes-dimorph",
+      "track": "begriffe",
+      "thema": "Besondere Blattformen",
+      "stufe": 3,
+      "frage": "Was ist Chloroplastendimorphismus?",
+      "antwort": "Unterschiedlich aufgebaute Chloroplasten in Mesophyll- und Bündelscheidenzellen (auffällig bei C4-Pflanzen).",
+      "quelle": "Skript Morphologie, S. 67–68"
+    },
+    {
+      "id": "begriffe-sk-bes-staerke",
+      "track": "begriffe",
+      "thema": "Besondere Blattformen",
+      "stufe": 3,
+      "frage": "In welchen Chloroplasten der C4-Pflanze lagert sich tagsüber Stärke ab?",
+      "antwort": "In denen der Bündelscheidenzellen (Stärkekörner). Die Chloroplasten der Mesophyllzellen speichern keine Stärke.",
+      "quelle": "Skript Morphologie, S. 67–68"
+    },
+    {
+      "id": "begriffe-sk-bes-zellen",
+      "track": "begriffe",
+      "thema": "Besondere Blattformen",
+      "stufe": 3,
+      "frage": "Welche Aufgabe haben Mesophyllzellen, welche Bündelscheidenzellen bei C4-Pflanzen?",
+      "antwort": "Mesophyllzellen: CO2-Fixierung. Bündelscheidenzellen: CO2-Freisetzung.",
+      "quelle": "Skript Morphologie, S. 67–68"
+    }
+  ]
+}

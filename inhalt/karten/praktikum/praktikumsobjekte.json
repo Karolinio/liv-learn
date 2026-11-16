@@ -1,0 +1,105 @@
+{
+  "track": "praktikum",
+  "thema": "Praktikumsobjekte",
+  "karten": [
+    {
+      "id": "praktikum-mentha-familie",
+      "track": "praktikum",
+      "thema": "Praktikumsobjekte",
+      "stufe": 1,
+      "frage": "Zu welcher Familie gehört Mentha x piperita?",
+      "antwort": "Zur Familie der Lamiaceae (Ordnung Lamiales).",
+      "quelle": "Kurstag 6, Praktikumsobjekte"
+    },
+    {
+      "id": "praktikum-mentha-name",
+      "track": "praktikum",
+      "thema": "Praktikumsobjekte",
+      "stufe": 1,
+      "frage": "Welche Pflanze ist Mentha x piperita?",
+      "antwort": "Die Pfefferminze (Lamiales, Lamiaceae).",
+      "quelle": "Kurstag 6, Praktikumsobjekte"
+    },
+    {
+      "id": "praktikum-pfefferminze-latein",
+      "track": "praktikum",
+      "thema": "Praktikumsobjekte",
+      "stufe": 1,
+      "frage": "Wie heißt die Pfefferminze wissenschaftlich?",
+      "antwort": "Mentha x piperita (Lamiales, Lamiaceae).",
+      "quelle": "Kurstag 6, Praktikumsobjekte"
+    },
+    {
+      "id": "praktikum-senna-familie",
+      "track": "praktikum",
+      "thema": "Praktikumsobjekte",
+      "stufe": 1,
+      "frage": "Zu welcher Familie gehört Senna alexandrina?",
+      "antwort": "Zur Familie der Fabaceae (Ordnung Fabales).",
+      "quelle": "Kurstag 6, Praktikumsobjekte"
+    },
+    {
+      "id": "praktikum-senna-name",
+      "track": "praktikum",
+      "thema": "Praktikumsobjekte",
+      "stufe": 1,
+      "frage": "Welche Pflanze ist Senna alexandrina?",
+      "antwort": "Die Alexandrische Senna (Fabales, Fabaceae).",
+      "quelle": "Kurstag 6, Praktikumsobjekte"
+    },
+    {
+      "id": "praktikum-senna-latein",
+      "track": "praktikum",
+      "thema": "Praktikumsobjekte",
+      "stufe": 1,
+      "frage": "Wie heißt die Alexandrische Senna wissenschaftlich?",
+      "antwort": "Senna alexandrina (Fabales, Fabaceae).",
+      "quelle": "Kurstag 6, Praktikumsobjekte"
+    },
+    {
+      "id": "praktikum-mentha-ordnung",
+      "track": "praktikum",
+      "thema": "Praktikumsobjekte",
+      "stufe": 2,
+      "frage": "Zu welcher Ordnung gehört Mentha x piperita?",
+      "antwort": "Zu den Lamiales (Familie Lamiaceae).",
+      "quelle": "Kurstag 6, Praktikumsobjekte"
+    },
+    {
+      "id": "praktikum-senna-ordnung",
+      "track": "praktikum",
+      "thema": "Praktikumsobjekte",
+      "stufe": 2,
+      "frage": "Zu welcher Ordnung gehört Senna alexandrina?",
+      "antwort": "Zu den Fabales (Familie Fabaceae).",
+      "quelle": "Kurstag 6, Praktikumsobjekte"
+    },
+    {
+      "id": "praktikum-lamiaceae-drueschuppe",
+      "track": "praktikum",
+      "thema": "Praktikumsobjekte",
+      "stufe": 2,
+      "frage": "Welche Drüsenschuppe ist typisch für die Lamiaceae, zu denen die Pfefferminze gehört?",
+      "antwort": "Die Lamiaceen-Drüsenschuppe: mehrzellig, ätherisches Öl entsteht auf der Epidermis und wird zwischen Zellwand und Cuticula abgegeben.",
+      "quelle": "Kurstag 6, Praktikumsobjekte"
+    },
+    {
+      "id": "praktikum-pfefferminz-droge",
+      "track": "praktikum",
+      "thema": "Praktikumsobjekte",
+      "stufe": 2,
+      "frage": "Wie heißt die Droge aus Pfefferminzblättern, und zu welcher Drogengruppe gehört sie?",
+      "antwort": "Menthae piperitae folium, eine Folium-Droge (Blatt-Droge).",
+      "quelle": "Kurstag 6, Praktikumsobjekte"
+    },
+    {
+      "id": "praktikum-fabaceae-fiederblatt",
+      "track": "praktikum",
+      "thema": "Praktikumsobjekte",
+      "stufe": 2,
+      "frage": "Welcher Blattbegriff nennt als Beispiel die Fabaceae, zu denen Senna alexandrina gehört?",
+      "antwort": "Das Fiederblatt: Teilblättchen einer gefiederten Blattspreite, z. B. bei Fabaceae.",
+      "quelle": "Kurstag 6, Praktikumsobjekte"
+    }
+  ]
+}

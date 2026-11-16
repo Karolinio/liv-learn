@@ -1,0 +1,246 @@
+{
+  "track": "begriffe",
+  "thema": "Nervatur und Blattform",
+  "karten": [
+    {
+      "id": "begriffe-sk-nervatur-mono-di",
+      "track": "begriffe",
+      "thema": "Nervatur und Blattform",
+      "stufe": 2,
+      "frage": "Woran unterscheiden sich Monokotyle und Dikotyle im Blatt?",
+      "antwort": "An der Blattnervatur: Parallelnervatur häufig bei Monokotylen, Netznervatur häufig bei Dikotylen (meist zweikeimblättrig).",
+      "quelle": "Skript Morphologie, S. 63–64",
+      "abbildung": "nervatur-typen"
+    },
+    {
+      "id": "begriffe-sk-nervatur-ginkgo",
+      "track": "begriffe",
+      "thema": "Nervatur und Blattform",
+      "stufe": 1,
+      "frage": "Welche Nervatur hat Ginkgo biloba?",
+      "antwort": "Dichotome Nervatur (gegabelte Nerven).",
+      "quelle": "Skript Morphologie, S. 63–64"
+    },
+    {
+      "id": "begriffe-sk-nervatur-plantago",
+      "track": "begriffe",
+      "thema": "Nervatur und Blattform",
+      "stufe": 3,
+      "frage": "Nenne eine Dikotyle mit Parallelnervatur.",
+      "antwort": "Plantago lanceolata (Spitzwegerich). Parallelnervatur gibt es auch bei einigen Dikotylen.",
+      "quelle": "Skript Morphologie, S. 63–64"
+    },
+    {
+      "id": "begriffe-sk-fiedernervig-netznervig",
+      "track": "begriffe",
+      "thema": "Nervatur und Blattform",
+      "stufe": 3,
+      "frage": "Wie unterscheiden sich fiedernervig, netznervig und geschlossen netznervig?",
+      "antwort": "Fiedernervig: gleichmäßiger Verlauf der Seitennerven vom Mittelnerv. Netznervig: unordentliches Nervennetz. Geschlossen netznervig: Nerven verbinden sich über Anastomosen, dazwischen liegen Interkostalfelder.",
+      "quelle": "Skript Morphologie, S. 63–64",
+      "abbildung": "nervatur-zeichnungen"
+    },
+    {
+      "id": "begriffe-sk-nerven-ordnung",
+      "track": "begriffe",
+      "thema": "Nervatur und Blattform",
+      "stufe": 2,
+      "frage": "Wie heißen die Nerven eines fiedernervigen Blattes nach Ordnung?",
+      "antwort": "Mittelnerv (Mittelrippe), davon abgehend Seitennerven 1. Ordnung, daran Seitennerven 2. Ordnung.",
+      "quelle": "Skript Morphologie, S. 63–64"
+    },
+    {
+      "id": "begriffe-sk-parallelnervig-kotyl",
+      "track": "begriffe",
+      "thema": "Nervatur und Blattform",
+      "stufe": 1,
+      "frage": "Welche Keimblatt-Gruppe hat meist parallelnervige Blätter?",
+      "antwort": "Die Einkeimblättrigen (Monokotyle).",
+      "quelle": "Skript Morphologie, S. 63–64"
+    },
+    {
+      "id": "begriffe-sk-rand-a",
+      "track": "begriffe",
+      "thema": "Nervatur und Blattform",
+      "stufe": 1,
+      "frage": "Welche Blattrandform zeigt Blatt A in der Abbildung?",
+      "antwort": "Ganzrandig.",
+      "quelle": "Skript Morphologie, S. 63–64",
+      "abbildung": "blattraender",
+      "abbildungVorne": true
+    },
+    {
+      "id": "begriffe-sk-rand-b",
+      "track": "begriffe",
+      "thema": "Nervatur und Blattform",
+      "stufe": 1,
+      "frage": "Welche Blattrandform zeigt Blatt B in der Abbildung?",
+      "antwort": "Wellig.",
+      "quelle": "Skript Morphologie, S. 63–64",
+      "abbildung": "blattraender",
+      "abbildungVorne": true
+    },
+    {
+      "id": "begriffe-sk-rand-c",
+      "track": "begriffe",
+      "thema": "Nervatur und Blattform",
+      "stufe": 2,
+      "frage": "Welche Blattrandform zeigt Blatt C in der Abbildung?",
+      "antwort": "Gezähnt.",
+      "quelle": "Skript Morphologie, S. 63–64",
+      "abbildung": "blattraender",
+      "abbildungVorne": true
+    },
+    {
+      "id": "begriffe-sk-rand-d",
+      "track": "begriffe",
+      "thema": "Nervatur und Blattform",
+      "stufe": 2,
+      "frage": "Welche Blattrandform zeigt Blatt D in der Abbildung?",
+      "antwort": "Gekerbt.",
+      "quelle": "Skript Morphologie, S. 63–64",
+      "abbildung": "blattraender",
+      "abbildungVorne": true
+    },
+    {
+      "id": "begriffe-sk-rand-e",
+      "track": "begriffe",
+      "thema": "Nervatur und Blattform",
+      "stufe": 2,
+      "frage": "Welche Blattrandform zeigt Blatt E in der Abbildung?",
+      "antwort": "Gesägt.",
+      "quelle": "Skript Morphologie, S. 63–64",
+      "abbildung": "blattraender",
+      "abbildungVorne": true
+    },
+    {
+      "id": "begriffe-sk-rand-f",
+      "track": "begriffe",
+      "thema": "Nervatur und Blattform",
+      "stufe": 2,
+      "frage": "Welche Blattrandform zeigt Blatt F in der Abbildung?",
+      "antwort": "Doppelt gesägt.",
+      "quelle": "Skript Morphologie, S. 63–64",
+      "abbildung": "blattraender",
+      "abbildungVorne": true
+    },
+    {
+      "id": "begriffe-sk-rand-g",
+      "track": "begriffe",
+      "thema": "Nervatur und Blattform",
+      "stufe": 2,
+      "frage": "Welche Blattform zeigt Blatt G in der Abbildung?",
+      "antwort": "Gelappt.",
+      "quelle": "Skript Morphologie, S. 63–64",
+      "abbildung": "blattraender",
+      "abbildungVorne": true
+    },
+    {
+      "id": "begriffe-sk-rand-h",
+      "track": "begriffe",
+      "thema": "Nervatur und Blattform",
+      "stufe": 2,
+      "frage": "Welche Blattform zeigt Blatt H in der Abbildung?",
+      "antwort": "Fiederteilig.",
+      "quelle": "Skript Morphologie, S. 63–64",
+      "abbildung": "blattraender",
+      "abbildungVorne": true
+    },
+    {
+      "id": "begriffe-sk-gefiedert-paarig",
+      "track": "begriffe",
+      "thema": "Nervatur und Blattform",
+      "stufe": 3,
+      "frage": "Was bedeutet paarig und unpaarig gefiedert?",
+      "antwort": "Paarig: gerade Anzahl Fiederblättchen (Blatt I: paarig einfach zehnzählig gefiedert). Unpaarig: ungerade Anzahl (Blatt J: unpaarig einfach elfzählig gefiedert).",
+      "quelle": "Skript Morphologie, S. 63–64",
+      "abbildung": "fiederung"
+    },
+    {
+      "id": "begriffe-sk-gefiedert-zahl",
+      "track": "begriffe",
+      "thema": "Nervatur und Blattform",
+      "stufe": 3,
+      "frage": "Was bedeutet „zehnzählig“ oder „elfzählig“ gefiedert?",
+      "antwort": "Die Anzahl der Fiederblättchen wird mitgezählt (Zahl-gefiedert): Blatt I hat zehn, Blatt J elf.",
+      "quelle": "Skript Morphologie, S. 63–64"
+    },
+    {
+      "id": "begriffe-sk-doppelt-gefiedert",
+      "track": "begriffe",
+      "thema": "Nervatur und Blattform",
+      "stufe": 3,
+      "frage": "Was ist ein doppelt gefiedertes Blatt (K)?",
+      "antwort": "Die Fiedern sind selbst nochmals gefiedert. Die Fiederblättchen haben keine Knospe.",
+      "quelle": "Skript Morphologie, S. 63–64",
+      "abbildung": "fiederung"
+    },
+    {
+      "id": "begriffe-sk-knospe-nodium",
+      "track": "begriffe",
+      "thema": "Nervatur und Blattform",
+      "stufe": 2,
+      "frage": "Wo sitzt die Knospe, und was ist ein Nodium?",
+      "antwort": "Die Knospe sitzt in der Blattachsel am Nodium, dem Knoten der Sprossachse.",
+      "quelle": "Skript Morphologie, S. 63–64"
+    },
+    {
+      "id": "begriffe-sk-x-netz-di",
+      "track": "begriffe",
+      "thema": "Nervatur und Blattform",
+      "stufe": 1,
+      "frage": "Welche Nervatur ist häufig bei Dikotylen?",
+      "antwort": "Die Netznervatur.",
+      "quelle": "Skript Morphologie, S. 63–64"
+    },
+    {
+      "id": "begriffe-sk-x-parallel-mono",
+      "track": "begriffe",
+      "thema": "Nervatur und Blattform",
+      "stufe": 1,
+      "frage": "Welche Nervatur ist häufig bei Monokotylen?",
+      "antwort": "Die Parallelnervatur.",
+      "quelle": "Skript Morphologie, S. 63–64"
+    },
+    {
+      "id": "begriffe-sk-x-fieder-i",
+      "track": "begriffe",
+      "thema": "Nervatur und Blattform",
+      "stufe": 3,
+      "frage": "Welche Fiederung zeigt Blatt I?",
+      "antwort": "Paarig einfach zehnzählig gefiedert.",
+      "quelle": "Skript Morphologie, S. 63–64",
+      "abbildung": "fiederung"
+    },
+    {
+      "id": "begriffe-sk-x-fieder-j",
+      "track": "begriffe",
+      "thema": "Nervatur und Blattform",
+      "stufe": 3,
+      "frage": "Welche Fiederung zeigt Blatt J?",
+      "antwort": "Unpaarig einfach elfzählig gefiedert.",
+      "quelle": "Skript Morphologie, S. 63–64",
+      "abbildung": "fiederung"
+    },
+    {
+      "id": "begriffe-sk-x-fieder-k",
+      "track": "begriffe",
+      "thema": "Nervatur und Blattform",
+      "stufe": 2,
+      "frage": "Welche Fiederung zeigt Blatt K?",
+      "antwort": "Doppelt gefiedert.",
+      "quelle": "Skript Morphologie, S. 63–64",
+      "abbildung": "fiederung"
+    },
+    {
+      "id": "begriffe-sk-x-anasto",
+      "track": "begriffe",
+      "thema": "Nervatur und Blattform",
+      "stufe": 3,
+      "frage": "Was sind Anastomosen und Interkostalfelder?",
+      "antwort": "Beschriftungen beim geschlossen netznervigen Blatt: Anastomosen verbinden die Nerven, Interkostalfelder liegen zwischen den Nerven.",
+      "quelle": "Skript Morphologie, S. 63–64",
+      "abbildung": "nervatur-zeichnungen"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "track": "begriffe",
+  "thema": "Blattmetamorphosen",
+  "karten": [
+    {
+      "id": "begriffe-sk-meta-liste",
+      "track": "begriffe",
+      "thema": "Blattmetamorphosen",
+      "stufe": 2,
+      "frage": "Welche Blattmetamorphosen (Abwandlungen von Blättern) nennt das Skript?",
+      "antwort": "Speicherblätter (z. B. Zwiebeln), Wasserspeicherblätter, Schuppenblätter (an Rhizomen), Blattranken, Phyllodien, Blattdornen sowie Schlauchblätter, Kannenblätter, Klappfallen und Klebfallen.",
+      "quelle": "Skript Morphologie, S. 61–62",
+      "abbildung": "schuppenblaetter"
+    },
+    {
+      "id": "begriffe-sk-meta-speicher",
+      "track": "begriffe",
+      "thema": "Blattmetamorphosen",
+      "stufe": 2,
+      "frage": "Welche Stoffe speichert die Zwiebel als Speicherblatt?",
+      "antwort": "Wasser, Kohlenhydrate und Saccharose (Notiz im Skript).",
+      "quelle": "Skript Morphologie, S. 61–62",
+      "abbildung": "zwiebel"
+    },
+    {
+      "id": "begriffe-sk-meta-wasserspeicher",
+      "track": "begriffe",
+      "thema": "Blattmetamorphosen",
+      "stufe": 2,
+      "frage": "Was sind Wasserspeicherblätter?",
+      "antwort": "Blattsukkulenz: Blätter, die Wasser speichern.",
+      "quelle": "Skript Morphologie, S. 61–62",
+      "abbildung": "sukkulente"
+    },
+    {
+      "id": "begriffe-sk-meta-schuppen",
+      "track": "begriffe",
+      "thema": "Blattmetamorphosen",
+      "stufe": 1,
+      "frage": "Wo kommen Schuppenblätter laut Skript vor?",
+      "antwort": "An Rhizomen.",
+      "quelle": "Skript Morphologie, S. 61–62",
+      "abbildung": "schuppenblaetter"
+    },
+    {
+      "id": "begriffe-sk-meta-ranken",
+      "track": "begriffe",
+      "thema": "Blattmetamorphosen",
+      "stufe": 2,
+      "frage": "Betreiben Blattranken Photosynthese?",
+      "antwort": "Ganz oder teilweise (Notiz im Skript).",
+      "quelle": "Skript Morphologie, S. 61–62",
+      "abbildung": "blattranken"
+    },
+    {
+      "id": "begriffe-sk-meta-dornen",
+      "track": "begriffe",
+      "thema": "Blattmetamorphosen",
+      "stufe": 2,
+      "frage": "Wie heißt die Blattmetamorphose mit einem Dorn am Spross neben den Laubblättern?",
+      "antwort": "Blattdornen.",
+      "quelle": "Skript Morphologie, S. 61–62",
+      "abbildung": "blattdornen"
+    },
+    {
+      "id": "begriffe-sk-meta-phyllodien",
+      "track": "begriffe",
+      "thema": "Blattmetamorphosen",
+      "stufe": 3,
+      "frage": "Was sind Phyllodien?",
+      "antwort": "Blattartig verbreiterte Blattstiele (flächig gewordene Blattstiele). Sie sehen aus wie zwei verschiedene Blattarten.",
+      "quelle": "Skript Morphologie, S. 61–62",
+      "abbildung": "phyllodien"
+    },
+    {
+      "id": "begriffe-sk-meta-fallen",
+      "track": "begriffe",
+      "thema": "Blattmetamorphosen",
+      "stufe": 2,
+      "frage": "Welche Fallentypen zeigt das Skript?",
+      "antwort": "Kannenfalle (Kannenblätter), Klappfalle (Venusfliege) und Klebfalle (Sonnentau); außerdem nennt es Schlauchblätter.",
+      "quelle": "Skript Morphologie, S. 61–62",
+      "abbildung": "kannenfalle"
+    },
+    {
+      "id": "begriffe-sk-meta-venusfliege",
+      "track": "begriffe",
+      "thema": "Blattmetamorphosen",
+      "stufe": 1,
+      "frage": "Welcher Fallentyp ist die Venusfliege?",
+      "antwort": "Eine Klappfalle.",
+      "quelle": "Skript Morphologie, S. 61–62",
+      "abbildung": "klappfalle"
+    },
+    {
+      "id": "begriffe-sk-meta-sonnentau",
+      "track": "begriffe",
+      "thema": "Blattmetamorphosen",
+      "stufe": 1,
+      "frage": "Welcher Fallentyp ist der Sonnentau?",
+      "antwort": "Eine Klebfalle.",
+      "quelle": "Skript Morphologie, S. 61–62",
+      "abbildung": "klebfalle"
+    }
+  ]
+}

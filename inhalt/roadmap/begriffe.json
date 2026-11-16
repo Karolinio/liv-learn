@@ -1,0 +1,81 @@
+{
+  "track": "begriffe",
+  "titel": "Begriffe",
+  "themen": [
+    {
+      "thema": "Blatt – Allgemeines",
+      "gruppe": "Kurstag 6",
+      "text": "Blattarten, Blattrand und Nervatur: die Grundbegriffe zur Blattform."
+    },
+    {
+      "thema": "Blatttypen",
+      "gruppe": "Skript Morphologie",
+      "text": "Blatttypen am Spross, Keimblätter, Aniso- und Heterophyllie."
+    },
+    {
+      "thema": "Nervatur und Blattform",
+      "gruppe": "Skript Morphologie",
+      "text": "Nervatur, Blattränder und gefiederte Blätter."
+    },
+    {
+      "thema": "Blattmetamorphosen",
+      "gruppe": "Skript Morphologie",
+      "text": "Umgebildete Blätter: Ranken, Dornen, Phyllodien, Fallen."
+    },
+    {
+      "thema": "Blattentwicklung",
+      "gruppe": "Skript Morphologie",
+      "text": "Wie ein Blatt entsteht: Meristeme, Unterblatt und Oberblatt."
+    },
+    {
+      "thema": "Anatomie des Laubblatts",
+      "gruppe": "Skript Morphologie",
+      "text": "Epidermis, Palisaden- und Schwammparenchym, Leitbündel, Spaltöffnungen."
+    },
+    {
+      "thema": "Blattquerschnitte",
+      "gruppe": "Skript Morphologie",
+      "text": "Blatttypen im Querschnitt mit Beispielen: bifacial, äquifacial, unifacial."
+    },
+    {
+      "thema": "Besondere Blattformen",
+      "gruppe": "Skript Morphologie",
+      "text": "Nadelblatt der Kiefer und Blätter mit Kranztyp (C4-Photosynthese)."
+    },
+    {
+      "thema": "Wassertransport und Transpiration",
+      "gruppe": "Skript Morphologie",
+      "text": "Kohäsion, Adhäsion, cuticuläre und stomatäre Transpiration."
+    },
+    {
+      "thema": "Standortanpassungen",
+      "gruppe": "Skript Morphologie",
+      "text": "Hydro-, Hygro-, Xero-, Sukkulenten, Halophyten und Mesophyten."
+    },
+    {
+      "thema": "Blattfall",
+      "gruppe": "Skript Morphologie",
+      "text": "Warum und wie Blätter abgeworfen werden."
+    },
+    {
+      "thema": "Blattdrogen",
+      "gruppe": "Skript Morphologie",
+      "text": "Folium-, Bulbus- und Herba-Drogen."
+    },
+    {
+      "thema": "Blüte – Grundlagen",
+      "gruppe": "Skript Morphologie",
+      "text": "Blüte als Kurzspross, Kelch und Krone."
+    },
+    {
+      "thema": "Blattaufbau",
+      "gruppe": "Kurstag 6",
+      "text": "Von Blattgrund bis Mesophyll: Bauteile, Gewebe und Haare des Blattes."
+    },
+    {
+      "thema": "Blattfunktionen",
+      "gruppe": "Kurstag 6",
+      "text": "Photosynthese, Transpiration und Gasaustausch."
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "track": "begriffe",
+  "thema": "Blatt – Allgemeines",
+  "karten": [
+    {
+      "id": "begriffe-laubblatt",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 2,
+      "frage": "Was bedeutet „Laubblatt“?",
+      "antwort": "Laubblätter zeichnen sich durch eine im Verhältnis zur Blattdicke große Blattfläche (Blattspreite) und durch eine Netzaderung aus.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-nadelblatt",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 2,
+      "frage": "Was bedeutet „Nadelblatt“?",
+      "antwort": "An Trockenheit angepasstes Blatt mit reduzierter Blattoberfläche, stark ausgebildetem Verdunstungsschutz und starken sklerenchymatischen Festigungselementen.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rundblatt",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 1,
+      "frage": "Was bedeutet „Rundblatt“?",
+      "antwort": "Ein rundes Blatt.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-hochblatt",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 2,
+      "frage": "Was bedeutet „Hochblatt“?",
+      "antwort": "Blätter, die oberhalb der normalen Laubblätter stehen und von diesen in Form und/oder Farbe abweichen.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-niederblatt",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 2,
+      "frage": "Was bedeutet „Niederblatt“?",
+      "antwort": "Niederblätter (Cataphylle) sind in der Regel klein und einfach gestaltet, vielfach schuppenförmig. Vielfach ist nur das Unterblatt ausgebildet. Meist sind sie nicht grün.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-keimblatt",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 2,
+      "frage": "Was bedeutet „Keimblatt“?",
+      "antwort": "Die Keimblätter (Kotyledonen) der Samenpflanzen sind die ersten, im Embryo angelegten Blätter und bereits im Samen erkennbar. Sie sind meist wesentlich einfacher gestaltet als die folgenden Blätter.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-kotyledonen",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 1,
+      "frage": "Was sind Kotyledonen?",
+      "antwort": "Keimblätter.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-ganzrandiges-blatt",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 2,
+      "frage": "Was ist ein ganzrandiges Blatt?",
+      "antwort": "Blatt mit ungezähntem Rand, ohne Einschnitte.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-blattrand",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 1,
+      "frage": "Was bedeutet „Blattrand“?",
+      "antwort": "Die seitliche Begrenzung des Blattes.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-gefiedertes-blatt",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 2,
+      "frage": "Was ist ein gefiedertes Blatt?",
+      "antwort": "Ein mehrfach geteiltes Blatt.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-mehrfach-gefiedertes-blatt",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 2,
+      "frage": "Was ist ein mehrfach gefiedertes Blatt?",
+      "antwort": "Die geteilten Blattabschnitte sind nochmals geteilt.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-fiederblatt",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 2,
+      "frage": "Was bedeutet „Fiederblatt“?",
+      "antwort": "Teilblättchen einer gefiederten (= in Teilblättchen aufgeteilten) Blattspreite, z. B. bei Fabaceae.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-blattnervatur",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 2,
+      "frage": "Was bedeutet „Blattnervatur“?",
+      "antwort": "Verlauf der Haupt- und Nebenleitbündel in der Blattspreite, z. B. Netz-/Fiedernervatur, Parallelnervatur.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-netznervig",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 2,
+      "frage": "Was bedeutet „Netznervig“?",
+      "antwort": "Mit einem oder mehreren Hauptnerven, von denen Seitennerven abgehen, die sich weiter verzweigen und zuletzt ein feines Nervennetz bilden.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-fiedernervig",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 2,
+      "frage": "Was bedeutet „Fiedernervig“?",
+      "antwort": "Netznervig mit nur einem Hauptnerv, von dem die Seitennerven zweireihig entspringen.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-parallelnervig",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 2,
+      "frage": "Was bedeutet „Parallelnervig“?",
+      "antwort": "Mit zahlreichen gleich starken Nerven, die vom Spreitengrund bis zur Blattspitze ohne Verzweigung nebeneinander verlaufen.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-heterophyllie",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 2,
+      "frage": "Was bedeutet „Heterophyllie“?",
+      "antwort": "Deutlich unterschiedlich geformte Blätter befinden sich an verschiedenen Sprossteilen einer Pflanze.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-anisophyllie",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 2,
+      "frage": "Was bedeutet „Anisophyllie“?",
+      "antwort": "Ungleich große Blätter sitzen an demselben Nodium oder an nahe beieinander liegenden Nodien.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-laubblatt",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 2,
+      "frage": "Wie heißt das Blatt mit großer Blattfläche (Blattspreite) und Netzaderung?",
+      "antwort": "Laubblatt.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-nadelblatt",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 2,
+      "frage": "Wie heißt das an Trockenheit angepasste Blatt mit reduzierter Oberfläche und sklerenchymatischen Festigungselementen?",
+      "antwort": "Nadelblatt.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-hochblatt",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 2,
+      "frage": "Wie heißen Blätter oberhalb der Laubblätter, die in Form oder Farbe abweichen?",
+      "antwort": "Hochblätter.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-keimblatt",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 2,
+      "frage": "Wie heißen die ersten, im Embryo angelegten Blätter der Samenpflanzen?",
+      "antwort": "Keimblätter (Kotyledonen).",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-ganzrandig",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 2,
+      "frage": "Wie heißt ein Blatt mit ungezähntem Rand ohne Einschnitte?",
+      "antwort": "Ganzrandiges Blatt.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-fiederblatt",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 2,
+      "frage": "Wie heißt das Teilblättchen einer gefiederten Blattspreite (z. B. Fabaceae)?",
+      "antwort": "Fiederblatt.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-nervatur",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 2,
+      "frage": "Wie heißt der Verlauf der Haupt- und Nebenleitbündel in der Blattspreite?",
+      "antwort": "Blattnervatur.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-anisophyllie",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 2,
+      "frage": "Wie heißt es, wenn ungleich große Blätter am selben Nodium sitzen?",
+      "antwort": "Anisophyllie.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-heterophyllie",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 2,
+      "frage": "Wie heißt es, wenn deutlich unterschiedlich geformte Blätter an verschiedenen Sprossteilen sitzen?",
+      "antwort": "Heterophyllie.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-parallelnervig",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 2,
+      "frage": "Wie heißt ein Blatt mit zahlreichen gleich starken, unverzweigten Nerven vom Spreitengrund bis zur Spitze?",
+      "antwort": "Parallelnervig.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-fiedernervig",
+      "track": "begriffe",
+      "thema": "Blatt – Allgemeines",
+      "stufe": 2,
+      "frage": "Wie heißt ein netznerviges Blatt mit nur einem Hauptnerv und zweireihig entspringenden Seitennerven?",
+      "antwort": "Fiedernervig.",
+      "quelle": "Kurstag 6, Begriffe"
+    }
+  ]
+}

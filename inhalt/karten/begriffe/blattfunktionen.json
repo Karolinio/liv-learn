@@ -1,0 +1,51 @@
+{
+  "track": "begriffe",
+  "thema": "Blattfunktionen",
+  "karten": [
+    {
+      "id": "begriffe-photosynthese",
+      "track": "begriffe",
+      "thema": "Blattfunktionen",
+      "stufe": 2,
+      "frage": "Was bedeutet „Photosynthese“?",
+      "antwort": "Physiologischer Prozess zur Erzeugung von energiereichen Biomolekülen aus energieärmeren Stoffen mithilfe von Lichtenergie.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-transpiration",
+      "track": "begriffe",
+      "thema": "Blattfunktionen",
+      "stufe": 2,
+      "frage": "Was bedeutet „Transpiration“?",
+      "antwort": "Abgabe von Wasserdampf über die Pflanzenoberfläche, entweder durch die Spaltöffnungen (stomatär) oder über die an Luft grenzenden Abschlussgewebe (cuticulär). Antriebskraft des Wasser- und Stofftransports von den Wurzeln zu den oberirdischen Pflanzenteilen.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-gasaustausch",
+      "track": "begriffe",
+      "thema": "Blattfunktionen",
+      "stufe": 2,
+      "frage": "Was bedeutet „Gasaustausch“?",
+      "antwort": "Physikalischer Vorgang, bei dem sich Gase zwischen zwei (durch eine permeable Membran, Öffnungen oder Poren getrennten) Kompartimenten räumlich neu verteilen.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-transpiration",
+      "track": "begriffe",
+      "thema": "Blattfunktionen",
+      "stufe": 2,
+      "frage": "Wie heißt die Abgabe von Wasserdampf über die Oberfläche einer Pflanze?",
+      "antwort": "Transpiration.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-photosynthese",
+      "track": "begriffe",
+      "thema": "Blattfunktionen",
+      "stufe": 2,
+      "frage": "Wie heißt der Prozess, energiereiche Biomoleküle mit Lichtenergie zu erzeugen?",
+      "antwort": "Photosynthese.",
+      "quelle": "Kurstag 6, Begriffe"
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "track": "begriffe",
+  "thema": "Blattaufbau",
+  "karten": [
+    {
+      "id": "begriffe-blattgrund",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was bedeutet „Blattgrund“?",
+      "antwort": "Ansatzstelle des Blattes/Blattstiels an den Spross; vom Unterblatt gebildet.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-blattscheide",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was bedeutet „Blattscheide“?",
+      "antwort": "Der bauchig oder röhrig die Sprossachse umfassende Blattgrund bei vielen Monokotyledonen, etwa den Gräsern.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-nebenblaetter",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was sind Nebenblätter?",
+      "antwort": "Stipeln: aus der Unterblattanlage entstandene, mehr oder weniger stark ausgeprägte blattartige Organe, die am Blattgrund ansetzen.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-stipeln",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was sind Stipeln?",
+      "antwort": "Nebenblätter: aus der Unterblattanlage entstandene, mehr oder weniger stark ausgeprägte blattartige Organe, die am Blattgrund ansetzen.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-blattstiel",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was bedeutet „Blattstiel“?",
+      "antwort": "Der auf den Blattgrund folgende, durch seine schmale, stielförmige Gestalt vom folgenden Teil des Blattes mehr oder minder scharf abgegrenzte Teil des Blattes.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-petiolus",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 1,
+      "frage": "Was bedeutet „Petiolus“?",
+      "antwort": "Blattstiel.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-blattspreite",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was bedeutet „Blattspreite“?",
+      "antwort": "Lamina: meist flächiges Photosyntheseorgan des Blatts, entstanden aus der Oberblattanlage.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-lamina",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 1,
+      "frage": "Was bedeutet „Lamina“?",
+      "antwort": "Blattspreite.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-druesenschuppe",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was bedeutet „Drüsenschuppe“?",
+      "antwort": "Mehrzellige Strukturen auf Epidermen, in denen ätherische Öle synthetisiert und zwischen Zellwand und Cuticula abgegeben werden. Typisch: Asteraceen- und Lamiaceen-Drüsenschuppe.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-druesenhaar",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was bedeutet „Drüsenhaar“?",
+      "antwort": "In der Regel mehrzellige Haare, die Substanzen (z. B. ätherisches Öl) synthetisieren und meist zwischen Zellwand und Cuticula abgeben können.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-subcuticularraum",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was bedeutet „Subcuticularraum“?",
+      "antwort": "Der Raum unter der Cuticula.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-anker-fusszelle",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was ist eine Anker-/Fußzelle?",
+      "antwort": "Hyphenzelle in den Gattungen Aspergillus und Sterigmatocystis, auf der ein Konidiophor auswächst.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-epidermis",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was bedeutet „Epidermis“?",
+      "antwort": "Primäres, einschichtiges, interzellularenfreies Abschlussgewebe der an Luft grenzenden Pflanzengewebe, meist mit Cuticula und Stomata.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-cuticula",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was bedeutet „Cuticula“?",
+      "antwort": "Wasserundurchlässige Schicht aus Cutin, die auf an Luft grenzenden Zellen (Epidermiszellen) aufgelagert ist.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-spaltoeffnungen",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was sind Spaltöffnungen?",
+      "antwort": "Poren in der Epidermis von Pflanzen, die den Gasaustausch regulieren.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-stomata",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 1,
+      "frage": "Was sind Stomata?",
+      "antwort": "Spaltöffnungen.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-einzelliges-haar",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was ist ein einzelliges Haar?",
+      "antwort": "Ein Auswuchs aus einer Epidermiszelle.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-mehrzelliges-haar",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was ist ein mehrzelliges Haar?",
+      "antwort": "Besteht entweder aus Zellreihen oder aus gestielten bzw. ungestielten Zellflächen.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-trichom",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was bedeutet „Trichom“?",
+      "antwort": "Ein- oder mehrzelliger haarartiger Epidermisauswuchs.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-palisadenparenchym",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was bedeutet „Palisadenparenchym“?",
+      "antwort": "Aus palisadenartig nebeneinanderliegenden, chloroplastenreichen Zellen aufgebaute Zellschicht(en) des Blatts mit schlitzförmigen Interzellularen, in der der Hauptteil der Photosynthese stattfindet.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-stielzelle",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was bedeutet „Stielzelle“?",
+      "antwort": "In Pflanzen eine meist tote Zelle mit stark verdickter Zellwand, die jedoch nicht faserartig ausgebildet ist. Sklereiden dienen häufig der Festigung und Verstärkung von Pflanzenteilen.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-sekretierende-zelle",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was ist eine sekretierende Zelle?",
+      "antwort": "Die Sekrete werden aus den Vakuolen der Pflanze abgegeben.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-aetherisches-oel",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was bedeutet „Ätherisches Öl“?",
+      "antwort": "Leicht flüchtige und häufig leicht entzündbare Stoffgemische aus verschiedenen ineinander löslichen organischen Stoffen wie Alkoholen, Estern, Ketonen oder Terpenen.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-kollaterales-leitbuendel",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was ist ein kollaterales Leitbündel?",
+      "antwort": "Leitbündel, in dem Phloem und Xylem nebeneinander liegen. Offen = mit dazwischen liegendem Kambium, geschlossen = ohne Kambium dazwischen.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-leitbuendelscheide",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was bedeutet „Leitbündelscheide“?",
+      "antwort": "Parenchymatisch oder sklerenchymatisch; hat eine Stützfunktion.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-mesophyll",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was bedeutet „Mesophyll“?",
+      "antwort": "Die Gesamtheit des zwischen oberer und unterer Oberhaut (Epidermis) liegenden Grundgewebes der Blätter, mit Ausnahme der Leitbündel.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-emergenz",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was bedeutet „Emergenz“?",
+      "antwort": "Unter Beteiligung subepidermaler Zellen entstandene mehrzellige Auswüchse, z. B. die Brennhaare der Brennnessel.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-hydathoden",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was sind Hydathoden?",
+      "antwort": "Wasserspalten: Öffnungen an oberirdischen Pflanzenteilen, aus denen aktiv Wasser abgegeben werden kann.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-schwammparenchym",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was bedeutet „Schwammparenchym“?",
+      "antwort": "Pflanzliches Gewebe des Laubblattes: grenzt unten an die untere Epidermis und oben an das Palisadenparenchym (bei äquifazialen Blättern liegt es zwischen zwei Palisadengeweben). Meist unregelmäßige, oft sternförmige Zellen mit großen Interzellularräumen.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-dorsiventral",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was bedeutet „Dorsiventral“?",
+      "antwort": "Symmetrieart: Nur eine einzige Symmetrieachse teilt das Lebewesen oder den Teil in zwei spiegelbildliche Hälften.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-bifacial",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was bedeutet „Bifacial“?",
+      "antwort": "Unter- und Oberseite des Blattes unterscheiden sich sichtbar, z. B. durch die Lage von Palisaden- und Schwammparenchym. Das Palisadenparenchym liegt in der Regel oben, das Schwammparenchym unten.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-invers-bifacial",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was bedeutet „invers bifacial“?",
+      "antwort": "Schwammparenchym in der oberen und Palisadenparenchym in der unteren Blatthälfte.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-aequifacial",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Was bedeutet „Äquifacial“?",
+      "antwort": "Gleichseitiges Blatt: In der Regel grenzt Palisadenparenchym an die obere und untere Epidermis, dazwischen liegt Schwammparenchym.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-blattscheide",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Wie heißt der bauchig oder röhrig die Sprossachse umfassende Blattgrund der Gräser?",
+      "antwort": "Blattscheide.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-stipeln",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Wie heißen Nebenblätter mit einem lateinischen Wort?",
+      "antwort": "Stipeln.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-subcuticular",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Wie heißt der Raum unter der Cuticula?",
+      "antwort": "Subcuticularraum.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-drueschuppe",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Wie heißen mehrzellige Strukturen auf Epidermen, die ätherische Öle bilden und zwischen Zellwand und Cuticula abgeben?",
+      "antwort": "Drüsenschuppen (typisch: Asteraceen- und Lamiaceen-Drüsenschuppe).",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-epidermis",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Wie heißt das primäre, einschichtige, interzellularenfreie Abschlussgewebe an Luft grenzender Pflanzengewebe?",
+      "antwort": "Epidermis.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-cuticula",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Wie heißt die wasserundurchlässige Schicht aus Cutin auf Epidermiszellen?",
+      "antwort": "Cuticula.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-stomata",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Wie heißen die Poren in der Epidermis, die den Gasaustausch regulieren?",
+      "antwort": "Spaltöffnungen (Stomata).",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-trichom",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Wie heißt ein ein- oder mehrzelliger haarartiger Epidermisauswuchs?",
+      "antwort": "Trichom.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-emergenz",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Wie heißen mehrzellige Auswüchse unter Beteiligung subepidermaler Zellen, z. B. Brennhaare?",
+      "antwort": "Emergenzen.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-hydathoden",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Wie heißen Wasserspalten, aus denen aktiv Wasser abgegeben wird?",
+      "antwort": "Hydathoden.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-mesophyll",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Wie heißt das Grundgewebe zwischen oberer und unterer Epidermis, ohne die Leitbündel?",
+      "antwort": "Mesophyll.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-schwamm",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Wie heißt das Blattgewebe mit oft sternförmigen Zellen und großen Interzellularräumen?",
+      "antwort": "Schwammparenchym.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-kollateral",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Wie heißt ein Leitbündel, in dem Phloem und Xylem nebeneinander liegen?",
+      "antwort": "Kollaterales Leitbündel.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-dorsiventral",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Wie heißt die Symmetrie mit nur einer Symmetrieachse, die in zwei spiegelbildliche Hälften teilt?",
+      "antwort": "Dorsiventral.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-bifacial",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Wie heißt ein Blatt mit oben Palisaden- und unten Schwammparenchym?",
+      "antwort": "Bifacial.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-aequifacial",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Wie heißt ein gleichseitiges Blatt, bei dem Palisadenparenchym an obere und untere Epidermis grenzt?",
+      "antwort": "Äquifacial.",
+      "quelle": "Kurstag 6, Begriffe"
+    },
+    {
+      "id": "begriffe-rv-aetherisch",
+      "track": "begriffe",
+      "thema": "Blattaufbau",
+      "stufe": 2,
+      "frage": "Wie heißen leicht flüchtige Stoffgemische aus Alkoholen, Estern, Ketonen und Terpenen?",
+      "antwort": "Ätherische Öle.",
+      "quelle": "Kurstag 6, Begriffe"
+    }
+  ]
+}

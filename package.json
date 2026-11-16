@@ -1,0 +1,33 @@
+{
+  "name": "liv-learn",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "npm run index && npm run dev -w @liv-learn/web",
+    "dev:web": "npm run index && npm run dev -w @liv-learn/web",
+    "index": "tsx scripts/index-bauen.ts",
+    "build": "npm run pruefen && npm run index && npm run build -w @liv-learn/web",
+    "test": "vitest run --coverage",
+    "test:e2e": "npm run build && playwright test -c apps/web/playwright.config.ts",
+    "pruefen": "tsx scripts/pruefen.ts",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.9.0",
+    "@vitest/coverage-v8": "^2.1.4",
+    "concurrently": "^9.1.0",
+    "fake-indexeddb": "^6.0.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3",
+    "vitest": "^2.1.4"
+  }
+}

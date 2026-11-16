@@ -1,0 +1,128 @@
+{
+  "track": "begriffe",
+  "thema": "Wassertransport und Transpiration",
+  "karten": [
+    {
+      "id": "begriffe-sk-wt-apoplast",
+      "track": "begriffe",
+      "thema": "Wassertransport und Transpiration",
+      "stufe": 3,
+      "frage": "Was passiert in den Blättern mit dem Wasser aus den Xylembahnen?",
+      "antwort": "Es tritt von den Xylembahnen in den Apoplasten über und versorgt die Blattzellen mit Wasser und Nährstoffen.",
+      "quelle": "Skript Morphologie, S. 69"
+    },
+    {
+      "id": "begriffe-sk-wt-triebkraft",
+      "track": "begriffe",
+      "thema": "Wassertransport und Transpiration",
+      "stufe": 2,
+      "frage": "Was ist die Triebkraft für Wassertransport und Transpiration?",
+      "antwort": "Der Saugkraftgradient (Blatt – Luft).",
+      "quelle": "Skript Morphologie, S. 69"
+    },
+    {
+      "id": "begriffe-sk-wt-cuticulaer",
+      "track": "begriffe",
+      "thema": "Wassertransport und Transpiration",
+      "stufe": 2,
+      "frage": "Was ist cuticuläre Transpiration?",
+      "antwort": "Wasserabgabe durch die Blattoberfläche (Epidermis und Cuticula). Sie macht 5–10 % der Gesamttranspiration aus.",
+      "quelle": "Skript Morphologie, S. 69"
+    },
+    {
+      "id": "begriffe-sk-wt-cuticulaer-anteil",
+      "track": "begriffe",
+      "thema": "Wassertransport und Transpiration",
+      "stufe": 2,
+      "frage": "Welchen Anteil hat die cuticuläre Transpiration an der Gesamttranspiration?",
+      "antwort": "5–10 %.",
+      "quelle": "Skript Morphologie, S. 69"
+    },
+    {
+      "id": "begriffe-sk-wt-cuticulaer-steuer",
+      "track": "begriffe",
+      "thema": "Wassertransport und Transpiration",
+      "stufe": 3,
+      "frage": "Kann die Pflanze die cuticuläre Transpiration steuern?",
+      "antwort": "Nein, es geht einfach Wasser aus. Je dicker die Epidermis, desto unbedeutender wird sie (Notiz im Skript).",
+      "quelle": "Skript Morphologie, S. 69"
+    },
+    {
+      "id": "begriffe-sk-wt-stomataer",
+      "track": "begriffe",
+      "thema": "Wassertransport und Transpiration",
+      "stufe": 2,
+      "frage": "Was ist stomatäre Transpiration?",
+      "antwort": "Transpiration durch die Spaltöffnungen. Sie kann von der Pflanze gesteuert werden.",
+      "quelle": "Skript Morphologie, S. 69"
+    },
+    {
+      "id": "begriffe-sk-wt-stomataer-steuer",
+      "track": "begriffe",
+      "thema": "Wassertransport und Transpiration",
+      "stufe": 2,
+      "frage": "Welche Transpirationsart kann die Pflanze steuern?",
+      "antwort": "Die stomatäre Transpiration (über die Spaltöffnungen).",
+      "quelle": "Skript Morphologie, S. 69"
+    },
+    {
+      "id": "begriffe-sk-wt-kohaesion",
+      "track": "begriffe",
+      "thema": "Wassertransport und Transpiration",
+      "stufe": 2,
+      "frage": "Was bedeutet Kohäsion der Wassermoleküle im Xylem?",
+      "antwort": "Die Wassermoleküle halten über Wasserstoffbrückenbindungen zusammen.",
+      "quelle": "Skript Morphologie, S. 69",
+      "abbildung": "wassertransport"
+    },
+    {
+      "id": "begriffe-sk-wt-adhaesion",
+      "track": "begriffe",
+      "thema": "Wassertransport und Transpiration",
+      "stufe": 2,
+      "frage": "Was bedeutet Adhäsion der Wassermoleküle im Xylem?",
+      "antwort": "Die Wassermoleküle haften an der Zellwand.",
+      "quelle": "Skript Morphologie, S. 69",
+      "abbildung": "wassertransport"
+    },
+    {
+      "id": "begriffe-sk-wt-abschnitte",
+      "track": "begriffe",
+      "thema": "Wassertransport und Transpiration",
+      "stufe": 2,
+      "frage": "Welche drei Abschnitte zeigt die Abbildung zum Wassertransport?",
+      "antwort": "(a) Transpiration in den Blättern, (b) Kohäsion und Adhäsion im Xylem, (c) Wasseraufnahme aus dem Boden.",
+      "quelle": "Skript Morphologie, S. 69",
+      "abbildung": "wassertransport"
+    },
+    {
+      "id": "begriffe-sk-wt-blatt",
+      "track": "begriffe",
+      "thema": "Wassertransport und Transpiration",
+      "stufe": 3,
+      "frage": "Welche Stationen sind bei der Transpiration im Blatt beschriftet?",
+      "antwort": "Xylemsaft, Mesophyllzellen, Wasser, Wasserdampf, Stoma und Atmosphäre.",
+      "quelle": "Skript Morphologie, S. 69",
+      "abbildung": "wassertransport"
+    },
+    {
+      "id": "begriffe-sk-wt-boden",
+      "track": "begriffe",
+      "thema": "Wassertransport und Transpiration",
+      "stufe": 2,
+      "frage": "Wie nimmt die Pflanze Wasser aus dem Boden auf?",
+      "antwort": "Über die Wurzelhaare: Wassermoleküle aus dem Bodenpartikel-Bereich gelangen ins Wurzelhaar und weiter in die Wurzel.",
+      "quelle": "Skript Morphologie, S. 69",
+      "abbildung": "wassertransport"
+    },
+    {
+      "id": "begriffe-sk-wt-xylem-phloem",
+      "track": "begriffe",
+      "thema": "Wassertransport und Transpiration",
+      "stufe": 3,
+      "frage": "Was fällt im Blatt an den Enden von Xylem und Phloem auf?",
+      "antwort": "Das Xylem geht etwas weiter als das Phloem. Seine Enden enden plötzlich blind (Notiz im Skript).",
+      "quelle": "Skript Morphologie, S. 69"
+    }
+  ]
+}
